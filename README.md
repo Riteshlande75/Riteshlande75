@@ -38,20 +38,6 @@ I believe in learning by building, embracing automation, and continuously improv
 
 * Python
 
----
-
-## 🌱 Currently Learning
-
-* AWS Cloud Services
-* Docker
-* Kubernetes
-* CI/CD Pipelines
-* Infrastructure as Code (Terraform)
-* Monitoring & Logging
-
----
-
-
 ⭐ *Learning Cloud. Exploring DevOps. Building for the future.*
 
 
